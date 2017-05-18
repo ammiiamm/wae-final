@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: 'one'
+  detail: '<b>one</b>'
+  user: one
+
+two:
+  title: 'two'
+  detail: '<b>two</b>'
+  user: two
